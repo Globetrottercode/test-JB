@@ -1,8 +1,8 @@
 import LogoSvg from "../components/svg";
 import Image from "next/image";
 import refImg from "../images/image.png";
-import TopArrow from "../components/topArrow";
-import SideDesign from "@/components/sideDesign";
+import TopArrow from "../icons/topArrow";
+import SideDesign from "../components/sideDesign";
 
 export default function home() {
   {
